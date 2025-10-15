@@ -4,7 +4,7 @@ If you are starting to explore Amazon Nova models, best way to get first few API
 
 # Self Paced Workshop
 
-fter making a few API calls, the next step is to complete a self-paced workshop to become acquainted with the capabilities of Amazon Nova models. This workshop can be accessed [self paced workshop here](https://github.com/aws-samples/amazon-nova-samples/tree/main/multimodal-understanding/workshop)
+after making a few API calls, the next step is to complete a self-paced workshop to become acquainted with the capabilities of Amazon Nova models. This workshop can be accessed [self paced workshop here](https://github.com/aws-samples/amazon-nova-samples/tree/main/multimodal-understanding/workshop)
 
 # Repeatable Patterns Module
 
